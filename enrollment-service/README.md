@@ -149,3 +149,4 @@ This project is licensed under the **MIT License** — you’re free to use, mod
 
 
 > _“Microservices are not just about dividing code — they’re about dividing responsibilities.”_
+> Thank you
